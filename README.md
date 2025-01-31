@@ -18,7 +18,7 @@
 - A university Full-Stack Project using Django Framework
 - Learning IT Architectures, Object Oriented Programming and Operating Systems
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 <!--
 **DanilaJeg/DanilaJeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
