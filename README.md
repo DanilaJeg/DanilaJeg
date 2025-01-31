@@ -11,6 +11,7 @@
 - **Web Development**: React, Flask, Node.js, HTML, CSS
 - **Databases**: MySQL, SQLite
 - **Tools**: Git, Docker, AWS, PyTorch
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,js)](https://skillicons.dev)
 
 ## 📍 Currently Working On:
 - A university Full-Stack Project
