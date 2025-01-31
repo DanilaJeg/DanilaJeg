@@ -8,14 +8,14 @@
 
 ## 🛠 Skills:
 - **Languages**: Java, Python, C, C++, Javascript, R
-- **Web Development**: React, Flask, Node.js, HTML, CSS
+- **Web Development**: React, Flask, Django, Node.js, HTML, CSS
 - **Databases**: MySQL, SQLite
-- **Tools**: Git, Docker, AWS, PyTorch
+- **Tools**: Git, Docker, AWS, PyTorch, Linux
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,js,linux,bash,git,github,gitlab,django,react,docker,html,css)](https://skillicons.dev)
 
 ## 📍 Currently Working On:
-- A university Full-Stack Project
+- A university Full-Stack Project using Django Framework
 - Learning IT Architectures, Object Oriented Programming and Operating Systems
 
 
