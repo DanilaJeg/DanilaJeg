@@ -18,7 +18,7 @@
 - A university Full-Stack Project using Django Framework
 - Learning IT Architectures, Object Oriented Programming and Operating Systems
 
-##⚡GitHub Statistics:
+## ⚡ GitHub Statistics:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaJeg&show_icons=true&theme=dracula)
 
